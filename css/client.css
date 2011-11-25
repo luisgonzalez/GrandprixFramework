@@ -1,0 +1,10 @@
+#content{
+    width: 852px; height: auto; margin: auto; padding-bottom: 10px; min-height: 600px; 
+    text-align:center; background: #FFFFFF url(../../img/fn_sec.jpg) no-repeat scroll right bottom
+}
+#header{
+    width: 850px; height: 195px; margin: auto;
+    background: #FFFFFF url(../../img/header.jpg) no-repeat scroll center center;
+}
+#header div{text-align: right; padding-top: 147px; padding-right: 30px;}
+#header a{color: #FFFF00 !important; font-size: 16px; font-weight: bolder;}
